@@ -178,14 +178,15 @@
             </plugin>
 
             <!-- Jib Plugin Configuration -->
+            
             <plugin>
                 <groupId>com.google.cloud.tools</groupId>
                 <artifactId>jib-maven-plugin</artifactId>
                 <version>3.4.4</version>
                 <configuration>
                     <from>
-                        <image>openjdk:17-alpine</image>
-                    </from>
+                        <image>eclipse-temurin:17-jre-alpine</image>
+                    </from> 
                     <to>
                         <image>airport-gate-management-app</image>
                     </to>

@@ -217,7 +217,7 @@ cd Airport_Gate_Management_System
 
 ### 🛠️ Build the Application (with Jib)
 ```bash
-mvn compile jib:dockerBuild
+mvn clean install jib:dockerBuild -DskipTests
 ``` 
 
 ### 🚀 Run with Docker Compose
