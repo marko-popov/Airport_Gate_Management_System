@@ -15,7 +15,7 @@ import io.swagger.v3.oas.annotations.servers.Server;
         contact = @Contact(
             name = "Marko Popov",
             email = "markopopov1993@gmail.com",
-            url = "https://github.com/Maximuss1993"
+            url = "https://marko-popov.github.io"
         ),
         description = "OpenApi documentation for my Spring Boot App " +
             "- Airport Gate Management System",

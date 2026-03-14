@@ -211,7 +211,7 @@ Make sure you have installed:
 
 ### 🌀 Clone the Repository
 ```bash
-git clone https://github.com/Maximuss1993/Airport_Gate_Management_System.git
+git clone https://github.com/marko-popov/Airport_Gate_Management_System.git
 cd Airport_Gate_Management_System
 ``` 
 
